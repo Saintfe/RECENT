@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+*.env
+*.tmp
+*.conf
+
+gcn-binary/dataset/tacred/
+gcn-multiple/dataset/tacred/
+SpanBERT/dataset/tacred/
+
+gcn-binary/saved_models/
+gcn-multiple/saved_models/
+SpanBERT/saved_models/
+
+gcn-binary/dataset/vocab/
+gcn-multiple/dataset/vocab/
+# ignore local pretrained models
+SpanBERT/local_model/
+
+

@@ -1,0 +1,7 @@
+binary_id: 1
+multiple_id: 1
+binary_path: ../gcn-binary/saved_models/
+semantic_file: dataset/tacred/entity_type_restriction/semantic_relations.txt
+gold_file: dataset/tacred/test_gold_relations.txt
+min_rel_id: 0 
+max_rel_id: 12 

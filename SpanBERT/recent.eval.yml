@@ -1,0 +1,6 @@
+binary_path: saved_models/depot-binary
+semantic_file: dataset/tacred/entity_type_restriction/semantic_relations.txt
+gold_file: dataset/tacred/test_gold_relations.txt
+docid2id_file: dataset/tacred/docid2id.txt
+min_rel_id: 0 
+max_rel_id: 12 
