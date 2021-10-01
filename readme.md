@@ -3,7 +3,7 @@ RECENT: Relation Classification with Entity Type Restriction
 
 This paper/code introduces the RECENT paradigm with Graph Convolutional Network (GCN) for the large scale sentence-level relation extraction task (TACRED).
 
-You can find the paper [here]()
+You can find the paper [here](https://aclanthology.org/2021.findings-acl.34/)
 
 See below for an overview of the paradigm:
 
@@ -155,3 +155,15 @@ python recent_eval.py
 Codes are adapted from the repo of the TACL 2020 paper [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://www.aclweb.org/anthology/2020.tacl-1.5/).
 
 ## Citation
+@inproceedings{lyu-chen-2021-relation,  
+&nbsp;&nbsp;&nbsp; title = "Relation Classification with Entity Type Restriction",  
+&nbsp;&nbsp;&nbsp; author = "Lyu, Shengfei  and Chen, Huanhuan",  
+&nbsp;&nbsp;&nbsp; booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",  
+&nbsp;&nbsp;&nbsp; month = aug,  
+&nbsp;&nbsp;&nbsp; year = "2021",  
+&nbsp;&nbsp;&nbsp; address = "Online",  
+&nbsp;&nbsp;&nbsp; publisher = "Association for Computational Linguistics",  
+&nbsp;&nbsp;&nbsp; url = "https://aclanthology.org/2021.findings-acl.34",  
+&nbsp;&nbsp;&nbsp; doi = "10.18653/v1/2021.findings-acl.34",  
+&nbsp;&nbsp;&nbsp; pages = "390--395",  
+}
